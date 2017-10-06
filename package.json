@@ -1,0 +1,20 @@
+{
+  "name": "async-await-sample",
+  "version": "1.0.0",
+  "description": "ES2017 async-await sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aDaisukeKondo/async-await-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aDaisukeKondo/async-await-sample/issues"
+  },
+  "homepage": "https://github.com/aDaisukeKondo/async-await-sample#readme"
+}
