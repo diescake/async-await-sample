@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aDaisukeKondo/async-await-sample/issues"
   },
-  "homepage": "https://github.com/aDaisukeKondo/async-await-sample#readme"
+  "homepage": "https://github.com/aDaisukeKondo/async-await-sample#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
 }
